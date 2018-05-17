@@ -219,11 +219,11 @@ OK，这样就完事儿了，这个达盖尔旗帜的爬虫就写好了。我们
 
 最后，来贴一张达盖尔的图片，纪念一下这位为人类做出杰出贡献的人。
 
-![达盖尔本尊](https://github.com/SwyftG/DaguerreSpider/blob/master/image/sbs046.png)
+![达盖尔本尊](https://github.com/SwyftG/DaguerreSpider/blob/master/image/sbs046.jpg)
 
 
 #### 推荐阅读：
-[【Python实战】用Scrapy编写“1024网站种子吞噬爬虫”，送福利](https://mp.weixin.qq.com/s?__biz=MzI2ODYwNjE5NQ==&mid=2247483776&idx=1&sn=50609d6dcf9c2c2fd80addb2d190fff2&chksm=eaec4e1cdd9bc70ab1ef74f7ae64bb3d619c9a09f2e2f0a676bbac33aa66260b7d566cb85154#rd)
+[【Python实战】用Scrapy编写“1024网站种子吞噬爬虫”，送福利](https://mp.weixin.qq.com/s?__biz=MzI2ODYwNjE5NQ==&mid=2247483776&idx=1&sn=50609d6dcf9c2c2fd80addb2d190fff2&chksm=eaec4e1cdd9bc70ab1ef74f7ae64bb3d619c9a09f2e2f0a676bbac33aa66260b7d566cb85154#rd)  
 [【Python实战】用代码来访问1024网站，送福利](https://mp.weixin.qq.com/s?__biz=MzI2ODYwNjE5NQ==&mid=2247483753&idx=1&sn=8df6c2a190201826f6f860659ad4af9e&chksm=eaec4ef5dd9bc7e39e8d48134795f6c0173c4614c615d0dcaaa38d937f4394aee77a978d70b1#rd)
 
 
